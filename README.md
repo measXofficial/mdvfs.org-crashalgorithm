@@ -1,2 +1,2 @@
 # mdvfs.org-crashalgorithm
-This repository refelcts the work of the crash algorithm group of the mdfvs.org
+This repository reflects the work of the crash algorithm group of the mdfvs.org
